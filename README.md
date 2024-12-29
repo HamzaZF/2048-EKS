@@ -184,7 +184,7 @@ eksctl delete cluster --name <cluster-name>
 
 ## Authors
 
-- [Your Name](https://github.com/your-github-username)
+- [Hamza Zarfaoui](https://github.com/HamzaZF)
 
 ## License
 
