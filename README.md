@@ -174,14 +174,6 @@ spec:
 
 ---
 
-## Clean Up
-To delete all resources and avoid incurring further charges:
-```bash
-eksctl delete cluster --name <cluster-name>
-```
-
----
-
 ## Authors
 
 - [Hamza Zarfaoui](https://github.com/HamzaZF)
