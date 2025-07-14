@@ -174,10 +174,6 @@ spec:
 
 ---
 
-## Authors
-
-- [Hamza Zarfaoui](https://github.com/HamzaZF)
-
 ## License
 
 This project is licensed under the MIT License.
